@@ -9,10 +9,11 @@ body {
 body {
   color: #532827;
   overflow: hidden;
-  background-image: url('./img/restaurant.jpg');
+  /* background-image: url('./img/restaurant.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top left;
+  background-position: top left; */
+  background-color: #532827;
   width: 100%;
   height: 100%;
 }
